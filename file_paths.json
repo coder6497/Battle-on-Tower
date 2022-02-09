@@ -1,0 +1,97 @@
+{
+  "fonts": [
+    "data/fonts/GangSmallYuxian.ttf",
+    "data/fonts/Excelorate.otf"
+  ],
+  "sounds": [
+    "data/sounds/shot_sound.mp3",
+    "data/sounds/game_play_music.mp3",
+    "data/sounds/attack_sound.mp3"
+  ],
+  "images": {
+    "icon": "data/images/icon.png",
+    "tower": "data/images/tower.png",
+    "player": [
+      "data/images/player.png",
+      "data/images/arm.png"
+    ],
+    "ground": "data/images/ground.png",
+    "background": [
+      "data/images/background.png",
+      "data/images/background2.jpg",
+      "data/images/background3.png"
+    ],
+    "game_over_background": "data/images/game_over_background.png",
+    "buttons": [
+      "data/images/btn1.png",
+      "data/images/btn2.png"
+    ],
+    "enemy": [
+      [
+        "data/images/enemy/run/run1.png",
+        "data/images/enemy/run/run2.png",
+        "data/images/enemy/run/run3.png",
+        "data/images/enemy/run/run4.png",
+        "data/images/enemy/run/run5.png",
+        "data/images/enemy/run/run6.png",
+        "data/images/enemy/run/run7.png"
+      ],
+      [
+        "data/images/enemy/punch/punch1.png",
+        "data/images/enemy/punch/punch2.png",
+        "data/images/enemy/punch/punch3.png",
+        "data/images/enemy/punch/punch3.png",
+        "data/images/enemy/punch/punch4.png",
+        "data/images/enemy/punch/punch5.png"
+      ],
+      [
+        "data/images/enemy/death/death1.png",
+        "data/images/enemy/death/death2.png",
+        "data/images/enemy/death/death3.png"
+      ]
+    ],
+    "enemy2": [
+      "data/images/enemy2/death/dead.png",
+      [
+        "data/images/enemy2/fly/fly1.png",
+        "data/images/enemy2/fly/fly2.png",
+        "data/images/enemy2/fly/fly3.png",
+        "data/images/enemy2/fly/fly4.png"
+      ]
+    ],
+    "enemy3": [
+      [
+        "data/images/enemy3/punch/punch1.png",
+        "data/images/enemy3/punch/punch2.png",
+        "data/images/enemy3/punch/punch3.png",
+        "data/images/enemy3/punch/punch4.png",
+        "data/images/enemy3/punch/punch5.png",
+        "data/images/enemy3/punch/punch6.png",
+        "data/images/enemy3/punch/punch7.png",
+        "data/images/enemy3/punch/punch8.png",
+        "data/images/enemy3/punch/punch9.png",
+        "data/images/enemy3/punch/punch10.png"
+      ],
+      [
+        "data/images/enemy3/run/run1.png",
+        "data/images/enemy3/run/run2.png",
+        "data/images/enemy3/run/run3.png",
+        "data/images/enemy3/run/run4.png"
+      ],
+      [
+        "data/images/enemy3/death/dead1.png",
+        "data/images/enemy3/death/dead2.png",
+        "data/images/enemy3/death/dead3.png"
+      ]
+    ],
+    "menu_imgs": {
+      "background": "data/images/menu_images/menu_background.jpg",
+      "game_over": "data/images/menu_images/game_over_background.png",
+      "buttons": [
+        "data/images/menu_images/btn1.png",
+        "data/images/menu_images/btn2.png",
+        "data/images/menu_images/btn3.png"
+      ]
+    }
+  }
+}
