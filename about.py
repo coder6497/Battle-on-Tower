@@ -43,7 +43,7 @@ class About:
 
     def draw_message(self):
         pg.draw.rect(self.screen, self.colors[1],  (100, 100, 800, 400), 3)
-        self.text_render("Battle on Tower 1.0 beta", self.font_file1, 50, self.colors[2], 100, 120)
+        self.text_render("Battle on Tower 2.0 beta", self.font_file1, 50, self.colors[2], 100, 120)
 
     def update_screen(self):
         self.screen.blit(self.background_img, (0, 0))
